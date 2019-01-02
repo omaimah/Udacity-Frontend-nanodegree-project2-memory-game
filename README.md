@@ -3,6 +3,7 @@
 ## Table of Contents
 
 * [Instructions](#instructions)
+* [Built With](#Built with)
 * [Contributing](#contributing)
 
 ## Instructions
@@ -14,7 +15,7 @@
 
 The get started, download the folder and open `index.html`.
 
-## Built width
+## Built with
 - font-awesome library
 - Google fonts
 
