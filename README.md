@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [Instructions](#instructions)
-* [Built With](#Built with)
+* [Built With](#built-with)
 * [Contributing](#contributing)
 
 ## Instructions
